@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joaquin Gregorio.
 - 👀 I’m interested in full-stack web/app development.
-- 🌱 I’m currently learning front-end web frameworks such as React.
+- 🌱 I’m currently learning front-end web frameworks such as Angular.
 
 
 <!---
