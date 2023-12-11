@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @wakig
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning programming.
+- 👋 Hi, I’m Joaquin Gregorio.
+- 👀 I’m interested in full-stack web/app development.
+- 🌱 I’m currently learning front-end web frameworks such as React.
+
+
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 wakig/wakig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
