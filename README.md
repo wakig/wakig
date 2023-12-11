@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joaquin Gregorio.
 - 👀 I’m interested in full-stack web/app development.
 - 🌱 I’m currently learning front-end web frameworks such as Angular.
-- ✨ Check out my web projects on wakig.github.io
+- ✨ Check out my web projects on [wakig.github.io](https://wakig.github.io)
 
 
 <!---
